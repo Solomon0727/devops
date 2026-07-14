@@ -1,2 +1,3 @@
 # devops
-project  training
+
+New repository for DevOps training.
