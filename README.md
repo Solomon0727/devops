@@ -1,2 +1,1 @@
-# devops
-project  training
+# DevOps CI/CD Project
